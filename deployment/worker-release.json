@@ -1,0 +1,334 @@
+{
+  "siteSlug": "irvine-drywall",
+  "workerName": "irvine-drywall",
+  "publicDirectory": "public",
+  "files": {
+    "about.html": {
+      "sha256": "4251ffbbd929b2289d34079e405d19d75a0a8182fb50bc27e638442ef0b2bf54",
+      "bytes": 11443
+    },
+    "contact.html": {
+      "sha256": "75198e5a56911f523e1b9485e3c7f21da5e4a126ea50d45280e407e2de7f155f",
+      "bytes": 13653
+    },
+    "css/styles.css": {
+      "sha256": "e7aa3b3474888e26fa5e6c33e0c8e4f909a3bd47953ac7c52ce3e1e5cde608d3",
+      "bytes": 27327
+    },
+    "drywall-costa-mesa.html": {
+      "sha256": "d05297257928d95b1d59a1e2ebfd79855595cbae4588ac0146afc15dbfbacfc3",
+      "bytes": 12445
+    },
+    "drywall-finishing-texturing.html": {
+      "sha256": "b76aa12c93ce82675d389378bc7667e11ce4958a45df339d57c9d4be05c72dab",
+      "bytes": 15843
+    },
+    "drywall-installation.html": {
+      "sha256": "00debb368b94bab34c9a4bb90e36e6d6e552282e4c6603a3138615ec9d78a355",
+      "bytes": 15364
+    },
+    "drywall-lake-forest.html": {
+      "sha256": "fbfab93571dc37441241b79564e0970afff79a0865ba9db1d36ca16e60569fb9",
+      "bytes": 12420
+    },
+    "drywall-newport-beach.html": {
+      "sha256": "3e2a89397ba1864db14464d09df966a4e21a4b18e2750cb89120c2b7eec36b17",
+      "bytes": 12429
+    },
+    "drywall-repair.html": {
+      "sha256": "ffc38baa9bbc05cd6f8bdb9a4a601d7f63089298a12bf8d12c19129accc63abd",
+      "bytes": 15079
+    },
+    "drywall-replacement.html": {
+      "sha256": "22298cc01d0e8cecc076bf16e0c5d3cbabf79d963d824b598faf20b07b8081fb",
+      "bytes": 15253
+    },
+    "drywall-tustin.html": {
+      "sha256": "df9108a330ca34a7641eaa39ba493e563eaf58c8f253190623b93e7a2fa43c53",
+      "bytes": 12440
+    },
+    "faq.html": {
+      "sha256": "bc2415e84c76166bb99aa096089344e7273785e2a3a67efe9cadb473975aa5f0",
+      "bytes": 13127
+    },
+    "images/optimized/irvine-drywall/ceiling-drywall-sanding-1200.webp": {
+      "sha256": "3bdb89d392d611daa54c11bab278d5cbb16fbcfbde815e1c3970495d44c171a2",
+      "bytes": 28392
+    },
+    "images/optimized/irvine-drywall/ceiling-drywall-sanding-1600.webp": {
+      "sha256": "c9a74fc3b2a05efa8965de1b4e3edc98a618f8eccb4bfe4e6dc9cdc070acca45",
+      "bytes": 42056
+    },
+    "images/optimized/irvine-drywall/ceiling-drywall-sanding-400.webp": {
+      "sha256": "d3f81d1d11d64d06333116f9ef878bb2a53fbddee6459eac44e510be5f7ae835",
+      "bytes": 6910
+    },
+    "images/optimized/irvine-drywall/ceiling-drywall-sanding-600.webp": {
+      "sha256": "14b1d8c3fbdf317ef202cb83c623027e3251b3e4bbd8c6df01f97fe968c6eeb4",
+      "bytes": 11518
+    },
+    "images/optimized/irvine-drywall/ceiling-drywall-sanding-800.webp": {
+      "sha256": "342c2bb6bd3bf2f6570f1205da0d77bc77501a9f8616f5098d581928e9ed240a",
+      "bytes": 16378
+    },
+    "images/optimized/irvine-drywall/ceiling-drywall-sanding-social-1200.jpg": {
+      "sha256": "3fa0e69b674938b1df1459862051114487f928671610c309269d8cdc0b2c381f",
+      "bytes": 65066
+    },
+    "images/optimized/irvine-drywall/drywall-joint-compound-finishing-400.webp": {
+      "sha256": "c9eb64c1dc98a5a4faa3a3f7ab9873d6d63e7b49b463883733ef8fd6513dc872",
+      "bytes": 6862
+    },
+    "images/optimized/irvine-drywall/drywall-joint-compound-finishing-600.webp": {
+      "sha256": "a5b05a364b1b913dd2c1cbadde6b865ce2502baec40183a1dc1ffddf5adedd03",
+      "bytes": 12058
+    },
+    "images/optimized/irvine-drywall/drywall-joint-compound-finishing-800.webp": {
+      "sha256": "5b63c8d6c451fcd90268061e41866b50a96581974bcbbe78b92777da4ef6b321",
+      "bytes": 18190
+    },
+    "images/optimized/irvine-drywall/drywall-joint-compound-finishing-card-320.webp": {
+      "sha256": "7ce49d2bbf1d9e0b89f63bbc9c2b176de3da85be88dbcd5d81023a42f18c612e",
+      "bytes": 3666
+    },
+    "images/optimized/irvine-drywall/drywall-joint-compound-finishing-card-400.webp": {
+      "sha256": "8ce2af5206ef68a5d4a6a2daf283b365dfc269628ddd8a6f3ef0bad281c2b885",
+      "bytes": 4940
+    },
+    "images/optimized/irvine-drywall/drywall-joint-compound-finishing-card-600.webp": {
+      "sha256": "47d93a29eb6e7b802b35d377bb6b8d53fc78f9a0b3045c14c8573bd6d085a7a8",
+      "bytes": 8822
+    },
+    "images/optimized/irvine-drywall/drywall-joint-compound-finishing-card-800.webp": {
+      "sha256": "5ccc699fb0275b0b31d3be817cdc510d0becdf7e02c6e5e3947ca824cbbe2226",
+      "bytes": 13382
+    },
+    "images/optimized/irvine-drywall/drywall-joint-compound-finishing-social-1200.jpg": {
+      "sha256": "fcba1fe9441a4c29014fc4c86b6d9c0c78e7ea0a768c408609443020f7e0f38f",
+      "bytes": 71032
+    },
+    "images/optimized/irvine-drywall/drywall-panel-cutting-1200.webp": {
+      "sha256": "b90d1976a2d136e9599bd15eb266801c760fb6b59c8374a1a7f1c8df18e74fbc",
+      "bytes": 35010
+    },
+    "images/optimized/irvine-drywall/drywall-panel-cutting-1600.webp": {
+      "sha256": "ac6a91b9a14928716541e661ad3cecd89bedffef6e7c2bbac4e3a8e01b180618",
+      "bytes": 61640
+    },
+    "images/optimized/irvine-drywall/drywall-panel-cutting-400.webp": {
+      "sha256": "ec56de4df079c2f9ebc113ade47011f496c81ca4994a2d4f8146ae54851bef93",
+      "bytes": 7194
+    },
+    "images/optimized/irvine-drywall/drywall-panel-cutting-600.webp": {
+      "sha256": "95dcca737f6319db9308016eb8e715b947f16e255b2cac8ba4835aa8e58c7275",
+      "bytes": 12472
+    },
+    "images/optimized/irvine-drywall/drywall-panel-cutting-800.webp": {
+      "sha256": "6d47021a2af4125147773df1023c8b3e9b252ecdd550904e8f412e1119424e03",
+      "bytes": 18794
+    },
+    "images/optimized/irvine-drywall/drywall-panel-cutting-social-1200.jpg": {
+      "sha256": "18621817c27d6f6f0ab68a92c0a670be19b72da491eb8e5f844948b00410248d",
+      "bytes": 88939
+    },
+    "images/optimized/irvine-drywall/interior-wall-repair-trowel-400.webp": {
+      "sha256": "5675e010f4c40d645cec7a47f96feffcc758f178cd4a3765b39f636dbd67b95f",
+      "bytes": 3982
+    },
+    "images/optimized/irvine-drywall/interior-wall-repair-trowel-600.webp": {
+      "sha256": "da334acb17a46916ec4d8231bb216a7005073cfb16cc8a6dfaf7e0fd0512c3cd",
+      "bytes": 7428
+    },
+    "images/optimized/irvine-drywall/interior-wall-repair-trowel-800.webp": {
+      "sha256": "b59da855c1b40141bb7dd60d801a83f1226d5230399be2bdc0159ce093014cba",
+      "bytes": 11402
+    },
+    "images/optimized/irvine-drywall/interior-wall-repair-trowel-card-320.webp": {
+      "sha256": "32c9759ab3628338cd6ef03fecd35f9d7b29bb165ecf795aca804e9cf52490e5",
+      "bytes": 2310
+    },
+    "images/optimized/irvine-drywall/interior-wall-repair-trowel-card-400.webp": {
+      "sha256": "ad635a8479ef1e41655227988bbf5f0f39621aca9b2220f3a61a483304521932",
+      "bytes": 3256
+    },
+    "images/optimized/irvine-drywall/interior-wall-repair-trowel-card-600.webp": {
+      "sha256": "d7bcf4d1e071cd190c1e1f9dc59efb65acfdb9cee7bab4537d40882fbe65c824",
+      "bytes": 6040
+    },
+    "images/optimized/irvine-drywall/interior-wall-repair-trowel-card-800.webp": {
+      "sha256": "ac900238e6014736d5050ea8870d5f423dcc0e156aeb6262a628591d90ed6d04",
+      "bytes": 9306
+    },
+    "images/optimized/irvine-drywall/interior-wall-repair-trowel-social-1200.jpg": {
+      "sha256": "1af56517b5edf64f66b03741cfa1c754e24aae3cf1d25f44b0a517c82c9a148d",
+      "bytes": 51806
+    },
+    "images/optimized/irvine-drywall/interior-wall-surface-preparation-1200.webp": {
+      "sha256": "53c5f7b94d990850d093a436bb9f9967f6406b1f0d8a75faeca181cdbfea4703",
+      "bytes": 18980
+    },
+    "images/optimized/irvine-drywall/interior-wall-surface-preparation-1600.webp": {
+      "sha256": "cbd1188ca8c6fc75122aa28257cc39308286d7a11d2e5dd0ace9c08b13ca07db",
+      "bytes": 31198
+    },
+    "images/optimized/irvine-drywall/interior-wall-surface-preparation-400.webp": {
+      "sha256": "d3e722b5fdc539ef7aabf67f03c02e66fd75609d8b694673236ef66521b7be1e",
+      "bytes": 3090
+    },
+    "images/optimized/irvine-drywall/interior-wall-surface-preparation-600.webp": {
+      "sha256": "4a4b9b039283b09a53981759cdba946a1b797c1b095dc97edf720792c8594dab",
+      "bytes": 5956
+    },
+    "images/optimized/irvine-drywall/interior-wall-surface-preparation-800.webp": {
+      "sha256": "64e0f450f50285cd4df6ee1128e2c83cdca46e135a663daf55f6c144258143fc",
+      "bytes": 9564
+    },
+    "images/optimized/irvine-drywall/replacement-drywall-panels-400.webp": {
+      "sha256": "e84443505f75633c4ee2c3f6327e80e37d18d64bb145924fc8748ac2d8804c13",
+      "bytes": 2760
+    },
+    "images/optimized/irvine-drywall/replacement-drywall-panels-600.webp": {
+      "sha256": "74bf54ad6b57833339dd52912b3e1cad06870880a0fda2a22c236f4b32a64c63",
+      "bytes": 5036
+    },
+    "images/optimized/irvine-drywall/replacement-drywall-panels-800.webp": {
+      "sha256": "1ae5fe5b59e2a09d24fb47c898146c4a71e37a2a8544d27af31cdddaca13883a",
+      "bytes": 7880
+    },
+    "images/optimized/irvine-drywall/replacement-drywall-panels-card-320.webp": {
+      "sha256": "143ccfe224dd45be15be3589b850fdcf77bb3486605b1551020ee3363497f52e",
+      "bytes": 1048
+    },
+    "images/optimized/irvine-drywall/replacement-drywall-panels-card-400.webp": {
+      "sha256": "b0b12443f550519dbb8cabd560fe63d6b412f106f258bc68510b3ec5914d0a91",
+      "bytes": 1514
+    },
+    "images/optimized/irvine-drywall/replacement-drywall-panels-card-600.webp": {
+      "sha256": "b88f8ef907ead47330ba46b7fc55f8703b99e4655e04ee3392ee567c3226bcae",
+      "bytes": 2652
+    },
+    "images/optimized/irvine-drywall/replacement-drywall-panels-card-800.webp": {
+      "sha256": "5ee2c0779f639a021ccb31fb0439442e047254726dec53fd6a6ff1d753c91bca",
+      "bytes": 4126
+    },
+    "images/optimized/irvine-drywall/replacement-drywall-panels-social-1200.jpg": {
+      "sha256": "5c2597c10925a63db9a9858630c8b54b8d54ccd710174652eaa004563439981c",
+      "bytes": 42040
+    },
+    "images/optimized/irvine-drywall/wall-corner-hand-sanding-400.webp": {
+      "sha256": "64cb70bf6350c54482b3d8bd819681d657f486d9e9e3935d623034f55fc5dd23",
+      "bytes": 7278
+    },
+    "images/optimized/irvine-drywall/wall-corner-hand-sanding-600.webp": {
+      "sha256": "a4665cbb1451c2b5c7d55dc86742e6b1c2c876da90c27d477b9236d30e7dbca2",
+      "bytes": 15688
+    },
+    "images/optimized/irvine-drywall/wall-corner-hand-sanding-800.webp": {
+      "sha256": "624ce0f97bde99cd1afddb524c95c743a4ca95f3e795aff61fcff14bb57601c6",
+      "bytes": 26882
+    },
+    "index.html": {
+      "sha256": "c5234ea724ba601ec1e0da41ae37288810d25bc1a8667f068aa402d4780807da",
+      "bytes": 18684
+    },
+    "js/main.js": {
+      "sha256": "04c9fa939294415a0c374a004c257a380fb9a80a25eb771731e5c916610a6607",
+      "bytes": 3228
+    },
+    "robots.txt": {
+      "sha256": "44a21409b763dd62d5efc25c6ea83d0eb89c002d7955871e7be304e86f0c4306",
+      "bytes": 71
+    },
+    "sitemap.xml": {
+      "sha256": "6040f02e0beb581e9f87b0cd8e689ea57aafaca087e78db60deadd4bff2b70dc",
+      "bytes": 1040
+    }
+  },
+  "validation": {
+    "business": {
+      "domain": "drywallirvine.com",
+      "phoneDisplay": "(949) 592-1961",
+      "phoneTel": "+19495921961",
+      "formUrl": "https://api.leadconnectorhq.com/widget/form/lfrh0t58Zh1rtmCwm1aw?notrack=true"
+    },
+    "services": [
+      {
+        "url": "drywall-installation.html"
+      },
+      {
+        "url": "drywall-repair.html"
+      },
+      {
+        "url": "drywall-finishing-texturing.html"
+      },
+      {
+        "url": "drywall-replacement.html"
+      }
+    ],
+    "locationPages": [
+      {
+        "url": "drywall-tustin.html"
+      },
+      {
+        "url": "drywall-costa-mesa.html"
+      },
+      {
+        "url": "drywall-newport-beach.html"
+      },
+      {
+        "url": "drywall-lake-forest.html"
+      }
+    ],
+    "images": {
+      "useImages": false
+    },
+    "deployment": {
+      "publicAssets": [
+        "images/optimized/irvine-drywall/ceiling-drywall-sanding-1200.webp",
+        "images/optimized/irvine-drywall/ceiling-drywall-sanding-1600.webp",
+        "images/optimized/irvine-drywall/ceiling-drywall-sanding-400.webp",
+        "images/optimized/irvine-drywall/ceiling-drywall-sanding-600.webp",
+        "images/optimized/irvine-drywall/ceiling-drywall-sanding-800.webp",
+        "images/optimized/irvine-drywall/ceiling-drywall-sanding-social-1200.jpg",
+        "images/optimized/irvine-drywall/drywall-joint-compound-finishing-400.webp",
+        "images/optimized/irvine-drywall/drywall-joint-compound-finishing-600.webp",
+        "images/optimized/irvine-drywall/drywall-joint-compound-finishing-800.webp",
+        "images/optimized/irvine-drywall/drywall-joint-compound-finishing-card-320.webp",
+        "images/optimized/irvine-drywall/drywall-joint-compound-finishing-card-400.webp",
+        "images/optimized/irvine-drywall/drywall-joint-compound-finishing-card-600.webp",
+        "images/optimized/irvine-drywall/drywall-joint-compound-finishing-card-800.webp",
+        "images/optimized/irvine-drywall/drywall-joint-compound-finishing-social-1200.jpg",
+        "images/optimized/irvine-drywall/drywall-panel-cutting-1200.webp",
+        "images/optimized/irvine-drywall/drywall-panel-cutting-1600.webp",
+        "images/optimized/irvine-drywall/drywall-panel-cutting-400.webp",
+        "images/optimized/irvine-drywall/drywall-panel-cutting-600.webp",
+        "images/optimized/irvine-drywall/drywall-panel-cutting-800.webp",
+        "images/optimized/irvine-drywall/drywall-panel-cutting-social-1200.jpg",
+        "images/optimized/irvine-drywall/interior-wall-repair-trowel-400.webp",
+        "images/optimized/irvine-drywall/interior-wall-repair-trowel-600.webp",
+        "images/optimized/irvine-drywall/interior-wall-repair-trowel-800.webp",
+        "images/optimized/irvine-drywall/interior-wall-repair-trowel-card-320.webp",
+        "images/optimized/irvine-drywall/interior-wall-repair-trowel-card-400.webp",
+        "images/optimized/irvine-drywall/interior-wall-repair-trowel-card-600.webp",
+        "images/optimized/irvine-drywall/interior-wall-repair-trowel-card-800.webp",
+        "images/optimized/irvine-drywall/interior-wall-repair-trowel-social-1200.jpg",
+        "images/optimized/irvine-drywall/interior-wall-surface-preparation-1200.webp",
+        "images/optimized/irvine-drywall/interior-wall-surface-preparation-1600.webp",
+        "images/optimized/irvine-drywall/interior-wall-surface-preparation-400.webp",
+        "images/optimized/irvine-drywall/interior-wall-surface-preparation-600.webp",
+        "images/optimized/irvine-drywall/interior-wall-surface-preparation-800.webp",
+        "images/optimized/irvine-drywall/replacement-drywall-panels-400.webp",
+        "images/optimized/irvine-drywall/replacement-drywall-panels-600.webp",
+        "images/optimized/irvine-drywall/replacement-drywall-panels-800.webp",
+        "images/optimized/irvine-drywall/replacement-drywall-panels-card-320.webp",
+        "images/optimized/irvine-drywall/replacement-drywall-panels-card-400.webp",
+        "images/optimized/irvine-drywall/replacement-drywall-panels-card-600.webp",
+        "images/optimized/irvine-drywall/replacement-drywall-panels-card-800.webp",
+        "images/optimized/irvine-drywall/replacement-drywall-panels-social-1200.jpg",
+        "images/optimized/irvine-drywall/wall-corner-hand-sanding-400.webp",
+        "images/optimized/irvine-drywall/wall-corner-hand-sanding-600.webp",
+        "images/optimized/irvine-drywall/wall-corner-hand-sanding-800.webp"
+      ]
+    }
+  }
+}

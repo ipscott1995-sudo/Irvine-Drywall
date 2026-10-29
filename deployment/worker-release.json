@@ -4,52 +4,52 @@
   "publicDirectory": "public",
   "files": {
     "about.html": {
-      "sha256": "4251ffbbd929b2289d34079e405d19d75a0a8182fb50bc27e638442ef0b2bf54",
-      "bytes": 11443
+      "sha256": "40ab4bb86f140f1254276e1bc1bdaf22a3b8e04b5714c43445e9aa0ac08a02a6",
+      "bytes": 11660
     },
     "contact.html": {
-      "sha256": "75198e5a56911f523e1b9485e3c7f21da5e4a126ea50d45280e407e2de7f155f",
-      "bytes": 13653
+      "sha256": "b9789ee94969ef7978b9f371e1ff539ce3604d2de44b1e540dbf8347007601c2",
+      "bytes": 13870
     },
     "css/styles.css": {
       "sha256": "e7aa3b3474888e26fa5e6c33e0c8e4f909a3bd47953ac7c52ce3e1e5cde608d3",
       "bytes": 27327
     },
     "drywall-costa-mesa.html": {
-      "sha256": "d05297257928d95b1d59a1e2ebfd79855595cbae4588ac0146afc15dbfbacfc3",
-      "bytes": 12445
+      "sha256": "ba8be6ab19357029d0d095c0fa37991a4fa59637bf6bfbda80217076513cfe4d",
+      "bytes": 12662
     },
     "drywall-finishing-texturing.html": {
-      "sha256": "b76aa12c93ce82675d389378bc7667e11ce4958a45df339d57c9d4be05c72dab",
-      "bytes": 15843
+      "sha256": "434fe7e4a0536fc7283866843acdd28b019cb94bc881ae3e29a54c395f972285",
+      "bytes": 16060
     },
     "drywall-installation.html": {
-      "sha256": "00debb368b94bab34c9a4bb90e36e6d6e552282e4c6603a3138615ec9d78a355",
-      "bytes": 15364
+      "sha256": "4625112dfe9976463df2e928577d10a70ce42d474869d47c51fe57095968f9f4",
+      "bytes": 15581
     },
     "drywall-lake-forest.html": {
-      "sha256": "fbfab93571dc37441241b79564e0970afff79a0865ba9db1d36ca16e60569fb9",
-      "bytes": 12420
+      "sha256": "fa31c2851fbd5c3b067063654c37bca57ea836a41aa190756b3ebd44c604b824",
+      "bytes": 12637
     },
     "drywall-newport-beach.html": {
-      "sha256": "3e2a89397ba1864db14464d09df966a4e21a4b18e2750cb89120c2b7eec36b17",
-      "bytes": 12429
+      "sha256": "343254781e9f19dedde01d0f583739b90c6fc54219e7f3e2d655137975817889",
+      "bytes": 12646
     },
     "drywall-repair.html": {
-      "sha256": "ffc38baa9bbc05cd6f8bdb9a4a601d7f63089298a12bf8d12c19129accc63abd",
-      "bytes": 15079
+      "sha256": "62741bdbd2b99c576b32e2af53940ce61fb470618bc4423268475672b3e6bba6",
+      "bytes": 15296
     },
     "drywall-replacement.html": {
-      "sha256": "22298cc01d0e8cecc076bf16e0c5d3cbabf79d963d824b598faf20b07b8081fb",
-      "bytes": 15253
+      "sha256": "ae495f34ff6ea54f30b906581625687e83c88204000968921d00718dfc80244b",
+      "bytes": 15470
     },
     "drywall-tustin.html": {
-      "sha256": "df9108a330ca34a7641eaa39ba493e563eaf58c8f253190623b93e7a2fa43c53",
-      "bytes": 12440
+      "sha256": "a7182309f3373930f89d1c58e9313b44d40c2bf60f522b86f6c42e6f2fb7576d",
+      "bytes": 12657
     },
     "faq.html": {
-      "sha256": "bc2415e84c76166bb99aa096089344e7273785e2a3a67efe9cadb473975aa5f0",
-      "bytes": 13127
+      "sha256": "98419447afb805416216b57538cf1a8c6fde7a0711c356fdfdf1f6649c0b6852",
+      "bytes": 13344
     },
     "images/optimized/irvine-drywall/ceiling-drywall-sanding-1200.webp": {
       "sha256": "3bdb89d392d611daa54c11bab278d5cbb16fbcfbde815e1c3970495d44c171a2",
@@ -228,8 +228,8 @@
       "bytes": 26882
     },
     "index.html": {
-      "sha256": "c5234ea724ba601ec1e0da41ae37288810d25bc1a8667f068aa402d4780807da",
-      "bytes": 18684
+      "sha256": "3b3344d535f60c2ef28f092c48cd5483ad1b29a66fdda16b814fe6ed4dcd434d",
+      "bytes": 18901
     },
     "js/main.js": {
       "sha256": "04c9fa939294415a0c374a004c257a380fb9a80a25eb771731e5c916610a6607",
@@ -242,6 +242,18 @@
     "sitemap.xml": {
       "sha256": "6040f02e0beb581e9f87b0cd8e689ea57aafaca087e78db60deadd4bff2b70dc",
       "bytes": 1040
+    },
+    "favicon.ico": {
+      "sha256": "7b89a3fd6e470ce8a04043d5b9dfcee3241072c759cb24e53731b99dd3157e29",
+      "bytes": 15086
+    },
+    "favicon-32.png": {
+      "sha256": "b8e82ff433d1e8ae709d8c22ddbd916e75ebc6b84aa02319889d3cb92c336eb8",
+      "bytes": 705
+    },
+    "apple-touch-icon.png": {
+      "sha256": "809e179def464bda826f737abccbe8134bff49ddefffba962ed5663b1bc2bf85",
+      "bytes": 3735
     }
   },
   "validation": {
@@ -327,7 +339,10 @@
         "images/optimized/irvine-drywall/replacement-drywall-panels-social-1200.jpg",
         "images/optimized/irvine-drywall/wall-corner-hand-sanding-400.webp",
         "images/optimized/irvine-drywall/wall-corner-hand-sanding-600.webp",
-        "images/optimized/irvine-drywall/wall-corner-hand-sanding-800.webp"
+        "images/optimized/irvine-drywall/wall-corner-hand-sanding-800.webp",
+        "favicon.ico",
+        "favicon-32.png",
+        "apple-touch-icon.png"
       ]
     }
   }
